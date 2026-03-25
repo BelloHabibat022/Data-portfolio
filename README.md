@@ -21,9 +21,5 @@ Analyzed hospital performance data to evaluate key metrics such as revenue, pati
 - Examined key performance indicators including revenue, total patients, and procedures  
 - Tools: Power BI 
 
-## Markdown
-## Dashboard Preview
-![Dashboard](dashboard.png)
-
 ## Contact
 - Email: olamidehabibat022@gmail.com  
