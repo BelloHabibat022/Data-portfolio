@@ -1,4 +1,4 @@
-o# Data Analysis Portfolio
+# My Portfolio
 
 A portfolio of data analysis projects demonstrating data cleaning, analysis, and visualization using Excel and Power BI.
 
