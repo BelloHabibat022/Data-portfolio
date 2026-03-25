@@ -13,7 +13,15 @@ I am a Data Analyst with a background in Biochemistry, experienced in using Exce
 
 ## Projects
 
+### Hospital Performance Analysis Dashboard
+Analyzed hospital performance data to evaluate key metrics such as revenue, patient trends, readmissions, and diagnosis patterns. Developed an interactive dashboard to support data-driven decision-making in healthcare management.
 
+- Analyzed patient distribution and service utilization trends  
+- Evaluated readmission patterns to identify areas for improved patient care  
+- Examined key performance indicators including revenue, total patients, and procedures  
+- Tools: Power BI 
+
+🔗 View Project: ./hospital-performance-analysis
 
 ## Contact
 - Email: olamidehabibat022@gmail.com  
