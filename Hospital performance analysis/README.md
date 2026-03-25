@@ -36,3 +36,4 @@ The dataset used for this project includes hospital records containing patient i
 
 ## Conclusion
 This analysis provides valuable insights into hospital operations and patient trends. The findings can help healthcare stakeholders make informed decisions to improve service delivery, optimize resource allocation, and enhance patient outcomes.
+
